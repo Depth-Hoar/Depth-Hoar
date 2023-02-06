@@ -1,8 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam
 
-
 <p align="center">
-  <a href="https://github.com/Depth-Hoar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20stuffs;With%20enough%20time;Anything%20that%20can%20be%20Written%20in%20Javascript;Will%20be%20written%20in%20Typescript&font=Seaweed Script&center=true&width=650&height=120&color=00ffff&vCenter=true&size=34%22"></a>
+  <a href="https://github.com/Depth-Hoar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20stufft&font=Seaweed%20Script&center=true&width=650&height=120&color=00ffff&vCenter=true&size=34%22"></a>
 </p>
 
 ## I am a Full Stack Blockchain Developer
