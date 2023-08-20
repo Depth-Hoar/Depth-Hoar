@@ -9,7 +9,7 @@
 - 🌍 I'm based in Canada, Alberta
 - 🖥️ See my portfolio at [blockchaindev.contact](http://www.blockchaindev.contact/)
 - ✉️ You can contact me at [adam.depth@proton.me](mailto:adam.depth@proton.me)
-- 🧠 I'm learning Rust & Go
+- 🧠 I'm learning Rust
 - 🤝 I'm open to collaborating on Solidity Smart Contracts
 
 ## Programming Languages
