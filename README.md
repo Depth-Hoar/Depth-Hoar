@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam
+![](./src/The_Future.jpg)
 
 <p align="center">
   <a href="https://github.com/Depth-Hoar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20stuff&font=Seaweed%20Script&center=true&width=650&height=120&color=00ffff&vCenter=true&size=34%22"></a>
@@ -7,9 +7,9 @@
 ## I am a Full Stack Blockchain Developer
 
 - 🌍 I'm based in Canada, Alberta
-- 🖥️ See my portfolio at [blockchaindev.contact](http://www.blockchaindev.contact/)
+- 🖥️ See my portfolio at [depthhoar.com](https://www.depthhoar.com/)
 - ✉️ You can contact me at [adam.depth@proton.me](mailto:adam.depth@proton.me)
-- 🧠 I'm learning Rust
+- 🧠 I'm learning Zero Knowledge Proofs
 - 🤝 I'm open to collaborating on Solidity Smart Contracts
 
 ## Programming Languages
