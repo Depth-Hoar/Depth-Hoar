@@ -1,7 +1,7 @@
 ![](./src/The_Future.jpg)
 
 <p align="center">
-  <a href="https://github.com/Depth-Hoar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20stuff&font=Seaweed%20Script&center=true&width=650&height=120&color=00ffff&vCenter=true&size=34%22"></a>
+  <a href="https://github.com/Depth-Hoar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20stuff&font=Orbitron%20Script&center=true&width=650&height=120&color=00ffff&vCenter=true&size=34%22"></a>
 </p>
 
 ## I am a Full Stack Blockchain Developer
